@@ -7,7 +7,7 @@ Cydonia Comparisons:
 - v2h It blubbed endlessly on the list for first run, so I had to adjust the repetition penalty higher (1.1) and in the second go, it was a lot more succinct but I do like the quotes it found (most relevant). 
 
 Comparison of the three Cydonia models
-![[Pasted image 20241004234655.png]]
+![Pasted image 20241004234655](./Pasted%20image%2020241004234655.png)
 
 Against other models:
 - Gemini-1.5-flash-latest - Did the best. 
@@ -27,8 +27,8 @@ Against other models:
 2. Run extract wisdom prompt with the transcript (either fabric or LM Studio) - Transcript is text, System Prompt is Extract Wisdom
 
 ### Model Params
-![[Pasted image 20241004231909.png]]
-![[Pasted image 20241004233238.png]]
+![Pasted image 20241004231909](./Pasted%20image%20241004231909.png)
+![Pasted image 20241004233238](./Pasted%20image%20241004233238.png)
 
 ### My Specs 
 Apple M1 Ultra - 64 GB - Version Sequoia 15.0 
