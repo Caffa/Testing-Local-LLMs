@@ -27,8 +27,9 @@ Against other models:
 2. Run extract wisdom prompt with the transcript (either fabric or LM Studio) - Transcript is text, System Prompt is Extract Wisdom
 
 ### Model Params
-![Pasted image 20241004231909](./Pasted%20image%20241004231909.png)
-![Pasted image 20241004233238](./Pasted%20image%20241004233238.png)
+
+![Pasted image 20241004231909](./Pasted%20image%2020241004231909.png)
+![Pasted image 20241004233238](./Pasted%20image%2020241004233238.png)
 
 ### My Specs 
 Apple M1 Ultra - 64 GB - Version Sequoia 15.0 
